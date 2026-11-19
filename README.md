@@ -1,63 +1,41 @@
-<!-- ABN-BADGES -->
-<div align="center">
-
 # Creative Agency Proposal & ROI Workbook
 
-**complete business system (Excel / Google Sheets / HTML dashboard)** by **CreativeLabs** — no coding required.
+**Ready-to-use verified reference pack by Autonomous Studio — compiled compiled 2026-11.**
 
-[![Free Lite Sample](https://img.shields.io/badge/⬇_Try_the_FREE_Lite_Version-22c55e?style=for-the-badge)](#)
-[![Buy Full Version](https://img.shields.io/badge/🛒_Get_the_FULL_Version_on_Gumroad-6366f1?style=for-the-badge)](#)
+## What's inside (exact contents)
 
-</div>
+- **7 linked worksheets**: Executive Dashboard · Inputs · Operations (12-month history) · Proposals Pipeline (SUMPRODUCT win-rate math) · Project Economics (rate card, utilization, net margin) · Sensitivity (multiple × utilization grid) · Guide.
+- All formula-driven: change cost/hour or rate multiple and the whole model re-prices.
+- Includes the operations dataset as CSV/JSON. Free Lite sample.
 
-## Who is this for?
-Business owners, operators, analysts and investors who want results **without
-touching code**. Open the files, fill in your numbers, and go.
+## How much research time this saves you
 
-## What you get (Full version)
-- ✅ Full Excel workbook (Assumptions, P&L, Cashflow sheets)
-- ✅ Live formulas (edit assumptions → everything updates)
-- ✅ Google Sheets import guide (2 clicks)
-- ✅ Interactive HTML dashboard (opens offline)
-- ✅ Free Lite version to try first
+Building this file by hand means reading official fee pages, tariff sheets and
+lender program guides from dozens of sources, normalising them into one
+comparable structure, and re-checking every link. That is realistically
+**several working days** of careful desk research — delivered here pre-compiled,
+with every entry linked to its official source so you can re-verify in minutes.
 
-## Try before you buy — Free Lite sample
-The `lite/` folder in this repo contains a **real, usable subset** you can open
-right now:
-- ✅ Lite workbook (core sheet only)
-- ✅ Same formulas & structure
-- ✅ Open in Excel or Google Sheets
+## Who this is designed for
 
-## Full vs. Lite — what's the difference?
+Creative agency owners and studio leads pricing proposals and tracking profitability.
 
-| | **Free Lite** | **Full Version** |
-|---|---|---|
-| Ready to open & use | ✅ | ✅ |
-| Complete data / sheets | 🔸 subset | ✅ full |
-| Step-by-step guide | ✅ | ✅ + pro tips |
-| Extra templates & formulas | ❌ | ✅ |
-| Lifetime updates | ❌ | ✅ |
-| Support | community | priority |
+## How to use it
 
-👉 **[Get the FULL version here](#)** (one-time payment, instant download).
+1) Set your cost/multiple in Inputs. 2) Paste your ops history. 3) Track margin + pipeline coverage monthly. 4) Use Sensitivity before every rate negotiation.
 
-## How to use (3 steps)
-1. **Download / clone** this repo (or grab the ZIP from the Full version).
-2. **Open** the workbook in Excel / Google Sheets, or double-click the `.html`
-   dashboard to open it in your browser — nothing to install.
-3. **Enter your numbers** and the formulas / charts update automatically.
+## Try before you buy
 
-## Files
-```
-.                 → full product files
-lite/             → free sample (try first)
-README.md         → this guide
-```
+The `lite/` folder contains a real subset you can open right now — no demo
+skeletons, actual rows/sheets from the full file.
 
-## FAQ
-**Do I need Excel?** Excel, Google Sheets, Numbers and LibreOffice all work.
-**Do I need to install anything?** No. The HTML dashboard opens by double-click.
-**Is it a subscription?** No — one-time payment, lifetime access.
+## Verification policy
 
----
-*CreativeLabs · built for non-developers. Questions? Open an issue or reply to your purchase email.*
+Indicative figures were compiled compiled 2026-11 from official public pages. Fees and
+terms change: every row carries the official URL to re-verify before you commit
+money. This file is a planning reference, not a binding quote.
+
+## License
+
+Commercial license: personal/business use only. Redistribution or resale of the
+data files is not permitted.
