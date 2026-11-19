@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/creative-agency-proposal-roi-workbook-25/sitemap.xml
